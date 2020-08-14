@@ -15,7 +15,8 @@
           We are grateful in advance for all the pleasant gifts you have planned 
           to gift us with. You may wish to gift any of the items below or gift cash. 
           Again, thank you very plenty.
-        </div>         
+        </div>   
+              
 <!-- Gift Cards -->
         <div class="row justify-center q-gutter-md">
           <q-card class="bg-grey-3" style="width: 100%; max-width: 300px;">
@@ -26,7 +27,7 @@
               </div>              
             </q-card-section>
             <q-card-actions align="right">
-              <q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" />
+              <a href="https://flutterwave.com/pay/beaconmediaandcommunicationservicesfysj" target="_blank"><q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" /></a>
             </q-card-actions>
           </q-card>
 
@@ -38,7 +39,7 @@
               </div>              
             </q-card-section>
             <q-card-actions align="right">
-              <q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" />
+              <a href="https://flutterwave.com/pay/beaconmediaandcommunicationservicesfysj" target="_blank"><q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" /></a>
             </q-card-actions>
           </q-card>  
 
@@ -50,7 +51,7 @@
               </div>              
             </q-card-section>
             <q-card-actions align="right">
-              <q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" />
+              <a href="https://flutterwave.com/pay/beaconmediaandcommunicationservicesfysj" target="_blank"><q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" /></a>
             </q-card-actions>
           </q-card>  
 
@@ -62,15 +63,12 @@
               </div>              
             </q-card-section>
             <q-card-actions align="right">
-              <q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" />
+              <a href="https://flutterwave.com/pay/beaconmediaandcommunicationservicesfysj" target="_blank"><q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" /></a>
             </q-card-actions>
           </q-card>                      
         </div>
-<!-- Gift Button -->
-        <div class="text-center q-mt-md">
-          <q-btn no-caps glossy color="secondary" icon="favorite" label="Gift Cash" />
-        </div>
 
+<!-- Appreciation -->
         <div class="text-center q-pa-md">
           Thank's for your love <br>
           We are excited to celebrate with you! <br>  

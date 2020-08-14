@@ -255,7 +255,7 @@
               </div>              
             </q-card-section>
             <q-card-actions align="right">
-              <q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" />
+              <a href="https://flutterwave.com/pay/beaconmediaandcommunicationservicesfysj" target="_blank"><q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" /></a>
             </q-card-actions>
           </q-card>
 
@@ -267,7 +267,7 @@
               </div>              
             </q-card-section>
             <q-card-actions align="right">
-              <q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" />
+              <a href="https://flutterwave.com/pay/beaconmediaandcommunicationservicesfysj" target="_blank"><q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" /></a>
             </q-card-actions>
           </q-card>  
 
@@ -279,7 +279,7 @@
               </div>              
             </q-card-section>
             <q-card-actions align="right">
-              <q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" />
+              <a href="https://flutterwave.com/pay/beaconmediaandcommunicationservicesfysj" target="_blank"><q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" /></a>
             </q-card-actions>
           </q-card>  
 
@@ -291,15 +291,12 @@
               </div>              
             </q-card-section>
             <q-card-actions align="right">
-              <q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" />
+              <a href="https://flutterwave.com/pay/beaconmediaandcommunicationservicesfysj" target="_blank"><q-btn no-caps glossy rounded color="primary" icon="favorite" label="Gift This" /></a>
             </q-card-actions>
           </q-card>                      
         </div>
-<!-- Gift Button -->
-        <div class="text-center q-mt-md">
-          <q-btn no-caps glossy color="secondary" icon="favorite" label="Gift Cash" />
-        </div>
 
+<!-- Appreciation -->
         <div class="text-center q-pa-md">
           Thank's for your love <br>
           We are excited to celebrate with you! <br>  
